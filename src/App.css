@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f7f7f7;
+  padding: 10px 20px;
+}
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+}
+.auth-buttons button {
+  margin-left: 10px;
+}

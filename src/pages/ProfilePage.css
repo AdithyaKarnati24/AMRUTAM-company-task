@@ -1,0 +1,20 @@
+.profile-page {
+    padding: 30px;
+    background-color: #fef6e4;
+    min-height: 100vh;
+  }
+  
+  .profile-page .back-button {
+    margin-bottom: 20px;
+    background-color: #006d4f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .profile-page .back-button:hover {
+    background-color: #004d3a;
+  }
+  

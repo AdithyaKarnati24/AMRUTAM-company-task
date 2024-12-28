@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #f6f6e9;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a934a;
+}
+
+.nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.auth-buttons button {
+  margin-left: 10px;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 5px;
+}
+.auth-buttons button:hover{
+  background-color: green;
+}
+.login-btn {
+  background-color: transparent;
+  border: 1px solid #4a934a;
+  color: #080a08;
+}
+
+.signup-btn {
+  background-color: #4a934a;
+  color: rgb(7, 7, 7);
+}

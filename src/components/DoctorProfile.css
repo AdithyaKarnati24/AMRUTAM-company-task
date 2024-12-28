@@ -1,0 +1,42 @@
+.doctor-profile {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .rating-follow {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .profile-details {
+    margin-top: 20px;
+  }
+  
+  .appointment-section {
+    margin-top: 20px;
+  }
+  
+  .slot-button {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .back-button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
